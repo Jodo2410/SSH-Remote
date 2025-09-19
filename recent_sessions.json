@@ -1,0 +1,41 @@
+﻿[
+    {
+        "SessionId":  "1758275394_czjbdo",
+        "Username":  "tunnel_1758275394_czjbdo",
+        "ClientName":  null,
+        "LastUsed":  "2025-09-19 11:49:55",
+        "Ports":  {
+                      "rdp":  11468,
+                      "ssh":  23887
+                  },
+        "Type":  "Created",
+        "ServerIP":  "217.154.13.19",
+        "Created":  null
+    },
+    {
+        "SessionId":  "1758275348_ttcorj",
+        "Username":  "tunnel_1758275348_ttcorj",
+        "ClientName":  null,
+        "LastUsed":  "2025-09-19 11:49:09",
+        "Ports":  {
+                      "rdp":  18533,
+                      "ssh":  10679
+                  },
+        "Type":  "Created",
+        "ServerIP":  "217.154.13.19",
+        "Created":  null
+    },
+    {
+        "SessionId":  "1758274144_4sd18q",
+        "Username":  "tunnel_1758274144_4sd18q",
+        "ClientName":  null,
+        "LastUsed":  "2025-09-19 11:29:06",
+        "Ports":  {
+                      "rdp":  22594,
+                      "ssh":  23611
+                  },
+        "Type":  "Created",
+        "ServerIP":  "217.154.13.19",
+        "Created":  null
+    }
+]
