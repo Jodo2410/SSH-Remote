@@ -1,0 +1,53 @@
+{
+    "settings":  {
+                     "localPort":  4000,
+                     "sshPort":  22,
+                     "targetPort":  3389
+                 },
+    "schools":  {
+                    "ebs-elmshorn":  {
+                                         "description":  "EBS Elmshorn",
+                                         "domain":  "ebs-elmshorn.org"
+                                     },
+                    "bcsg-elmshorn":  {
+                                         "description":  "BCSG Schule Elmshorn",
+                                         "domain":  "bcsg-elmshorn.de"
+                                     },
+                    "afg-elmshorn":  {
+                                         "description":  "Anne-Frank-Gemeinschaftsschule Elmshorn",
+                                         "domain":  "afg-elmshorn.org"
+                                     },
+                    "bismarckschule-elmshorn":  {
+                                         "description":  "Bismarckschule Elmshorn",
+                                         "domain":  "bismarckschule.org"
+                                     },
+                    "kgse-elmshorn":  {
+                                         "description":  "KGSE Elmshorn",
+                                         "domain":  "kgse-elmshorn.org"
+                                     },
+                    "als-elmshorn":  {
+                                         "description":  "ALS Elmshorn",
+                                         "domain":  "als-elmshorn.org"
+                                     },
+                    "tks-elmshorn":  {
+                                         "description":  "TKS Elmshorn",
+                                         "domain":  "tks-elmshorn.org"
+                                     },
+                    "gshafenstrasse-elmshorn":  {
+                                         "description":  "Grundschule Hafenstraße Elmshorn",
+                                         "domain":  "gshafenstrasse-elmshorn.org"
+                                     },
+                    "fes-elmshorn":  {
+                                         "description":  "FES Elmshorn",
+                                         "domain":  "fes-elmshorn.org"
+                                     },
+                    "gshainholz-elmshorn":  {
+                                         "description":  "Grundschule Hainholz Elmshorn",
+                                         "domain":  "gshainholz-elmshorn.org"
+                                     },
+                    "gskaltenweide-elmshorn":  {
+                                         "description":  "Grundschule Kaltenweide Elmshorn",
+                                         "domain":  "gskaltenweide-elmshorn.org"
+                                     }
+                }
+}
